@@ -20,9 +20,7 @@
  <ul>Angel ríos</ul
  <ul>28.456.193</ul>
  <ul>sección 3</ul>
-  
-  <!-- Project -->
-  <script src="main.js"></script>
+ 
 </body>
 </html>
 
